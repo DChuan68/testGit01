@@ -6,6 +6,9 @@ public class Test02 {
 		String s=new String("qwertyui");
 		System.out.println(s.substring(1));// wertyui 
 		System.out.println(s.charAt(0));   // q
+		System.out.println(s.charAt(0));   // q
+		System.out.println(s.charAt(0));   // q
+		System.out.println(s.charAt(0));   // q
 		
 	}
 	
