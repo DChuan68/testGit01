@@ -8,6 +8,9 @@ public class Test02 {
 		System.out.println(s.substring(1));// wertyui 
 		System.out.println(s.substring(1));// wertyui 
 		System.out.println(s.charAt(0));   // q
+		System.out.println(s.charAt(0));   // q
+		System.out.println(s.charAt(0));   // q
+		System.out.println(s.charAt(0));   // q
 		
 	}
 	
