@@ -9,6 +9,7 @@ public class Test02 {
 		System.out.println(s.charAt(6));   // q
 		System.out.println(s.charAt(7));   // q
 		System.out.println(s.charAt(7));   // q
+		System.out.println(s.charAt(6));   // q
 		
 	}
 	
