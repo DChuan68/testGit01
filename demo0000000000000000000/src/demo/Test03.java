@@ -20,5 +20,6 @@ public class Test03 {
 		t.set(q1);
 		Quick quick = t.get();
 		System.out.println(quick);
+		System.out.println(9);
 	}
 }
